@@ -8,7 +8,7 @@ API sử dụng: DummyJSON
 
 Ngày kiểm thử: 27/05/2026
 
-Người kiểm thử: .............................................
+Người kiểm thử: Nguyễn Phương Ngân
 
 1. MỤC TIÊU KIỂM THỬ
 
